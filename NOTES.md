@@ -1,0 +1,3 @@
+# Notes
+
+- So, this was as big a pain-in-the-ass as I thought. I reinstalled rbenv and yeah...
